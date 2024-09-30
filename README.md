@@ -1,6 +1,10 @@
-# Project Title
+# Dataguard
 
-This project is built using Vue 3, TypeScript, and Vite. It implements an infinite scroll feature to fetch and display GitHub repositories based on certain filters.
+This project is built using Vue 3, TypeScript, and Vite.  
+It implements an infinite scroll feature to fetch and display GitHub repositories based on certain filters.  
+The application allows users to search for repositories by programming language, minimum stars, and creation date range.  
+It also includes features like sorting by stars and error notifications using Vue Toast Notification.
+
 
 ## Table of Contents
 
